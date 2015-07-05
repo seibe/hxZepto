@@ -1,0 +1,6 @@
+-main Main
+-cp src
+-cp demo/src
+-dce full
+-js demo/bin/main.js
+#-debug

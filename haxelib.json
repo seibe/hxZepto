@@ -1,0 +1,10 @@
+{
+  "name": "Zepto",
+  "url": "https://github.com/seibe/hxZepto/",
+  "license": "MIT",
+  "tags": [ "js", "zepto.js" ],
+  "description": "A haxe extern for Zepto.js",
+  "version": "0.0.1",
+  "releasenote": "first release.",
+  "contributors": ["seibe"]
+}
